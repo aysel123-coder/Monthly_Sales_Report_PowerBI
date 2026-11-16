@@ -1,0 +1,31 @@
+SaleMonth,MonthName,Region,Category,TotalOrders,TotalQuantity,TotalRevenue,AvgOrderValue,TopProduct
+2024-05-01,May 2024,Northeast,Footwear,12,42,3779.58,314.97,Running Shoes Pro X
+2024-05-01,May 2024,West,Fitness,10,38,2319.8,231.98,Yoga Mat Ultra Grip
+2024-05-01,May 2024,Southeast,Apparel,8,55,1814.45,226.81,Men's Polo Shirt
+2024-05-01,May 2024,Midwest,Sports Equipment,6,22,1349.94,224.99,Basketball
+2024-05-01,May 2024,Northeast,Fitness,9,34,1529.66,169.96,Resistance Band Set
+2024-06-01,Jun 2024,Northeast,Footwear,14,51,4589.49,327.82,Waterproof Hiking Boot
+2024-06-01,Jun 2024,West,Cycling,7,28,1539.72,219.96,Cycling Helmet
+2024-06-01,Jun 2024,Southeast,Fitness,11,48,2399.52,218.14,Foam Roller Therapy
+2024-06-01,Jun 2024,Midwest,Apparel,9,62,2169.38,241.04,Fleece Hoodie
+2024-06-01,Jun 2024,West,Footwear,8,30,2399.7,299.96,Women's Sneakers Lite
+2024-07-01,Jul 2024,Northeast,Fitness,15,68,5099.55,339.97,Adjustable Dumbbells
+2024-07-01,Jul 2024,West,Apparel,12,72,2519.76,209.98,Compression Shorts
+2024-07-01,Jul 2024,Southeast,Footwear,10,40,3499.6,349.96,Waterproof Hiking Boot
+2024-07-01,Jul 2024,Midwest,Fitness,8,32,1919.68,239.96,Weightlifting Belt
+2024-07-01,Jul 2024,Northeast,Sports Equipment,7,25,1749.75,249.96,Tennis Racket Elite
+2024-08-01,Aug 2024,Northeast,Footwear,18,75,6749.25,374.96,Running Shoes Pro X
+2024-08-01,Aug 2024,West,Fitness,16,70,5599.3,349.96,Adjustable Dumbbells
+2024-08-01,Aug 2024,Southeast,Apparel,14,88,3079.12,219.94,Fleece Hoodie
+2024-08-01,Aug 2024,Midwest,Sports Equipment,10,38,1899.62,189.96,Badminton Set
+2024-08-01,Aug 2024,West,Aquatics,9,45,1034.55,114.95,Swim Goggles Pro
+2024-09-01,Sep 2024,Northeast,Fitness,16,64,6399.36,399.96,Adjustable Dumbbells
+2024-09-01,Sep 2024,West,Footwear,13,52,4679.48,359.96,Waterproof Hiking Boot
+2024-09-01,Sep 2024,Southeast,Fitness,11,50,2749.5,249.95,Weightlifting Belt
+2024-09-01,Sep 2024,Midwest,Apparel,9,58,2319.42,257.71,Classic Denim Jacket
+2024-09-01,Sep 2024,Northeast,Cycling,7,30,1649.7,235.67,Cycling Helmet
+2024-10-01,Oct 2024,Northeast,Footwear,15,60,5399.4,359.96,Running Shoes Pro X
+2024-10-01,Oct 2024,West,Fitness,12,52,4199.48,349.96,Adjustable Dumbbells
+2024-10-01,Oct 2024,Southeast,Apparel,10,65,2249.35,224.94,Men's Polo Shirt
+2024-10-01,Oct 2024,Midwest,Sports Equipment,8,30,1499.7,187.46,Tennis Racket Elite
+2024-10-01,Oct 2024,West,Accessories,11,88,659.12,59.92,Sports Water Bottle
